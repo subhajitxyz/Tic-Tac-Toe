@@ -2,6 +2,9 @@
 
 A futuristic, fully responsive **Tic-Tac-Toe** game built using **React** and styled with **CSS glassmorphism + neon glow** effects. This two-player game allows users to play alternately, detects winners and ties, and offers a reset button to start fresh!
 
+<img width="1536" height="1024" alt="Tic Tac Toe Game Images" src="https://github.com/user-attachments/assets/f4ee1255-5a2a-4dac-a8b7-71e6446a660d" />
+
+
 ---
 
 ## 🚀 Features
